@@ -96,7 +96,7 @@ Sample XML and XSLT files are provided in the repository for testing and learnin
 
 Watch our comprehensive demonstration video to see XML Explorer in action:
 
-**📹 [View Demo Video](./demonstration.mp4)**
+**📹 [View Demo Video](./XPath_XSTL_Explorer/demonstration.mp4)**
 
 > **Note**: Click the link above to download and view the demonstration video, or view it directly in GitHub by clicking on the video file in the repository.
 
